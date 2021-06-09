@@ -1,0 +1,30 @@
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
