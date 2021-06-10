@@ -28,3 +28,1248 @@ Registered S3 method overwritten by 'pryr':
 [11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
 [16] PLMBatchnum 
 <0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+            MCode                MName             Spec     MDesc UOM    MProp
+1  1.204.07.00006       240V市电适配器 1.204.07.00006/B From iPEM  个     自制
+2  2.204.07.00007   240V LPC电路板组件 2.204.07.00007/B From iPEM  个     自制
+3  3.02.02.001280        240V LPC壳体1 3.02.02.001280/B From iPEM  个     外购
+4  2.204.07.00008     240V LPC旋钮组件 2.204.07.00008/B From iPEM  个     自制
+5  3.02.09.000954             提示贴膜 3.02.09.000954/B From iPEM  个     外购
+6  3.02.09.000953           序列号贴膜 3.02.09.000953/B From iPEM  个     外购
+7  3.01.04.000084     发光二极管（红） 3.01.04.000084/B From iPEM  个     外购
+8  3.02.02.001281        240V LPC壳体2 3.02.02.001281/B From iPEM  个     外购
+9  3.01.15.000645                 导线 3.01.15.000645/B From iPEM  个     外购
+10 3.02.01.001598     发光二级管（绿） 3.02.01.001598/B From iPEM  个     外购
+11 3.02.01.001597            LED固定套 3.02.01.001597/B From iPEM  个     外购
+12 3.02.01.001596        240V LPC壳体3 3.02.01.001596/B From iPEM  个     外购
+13 3.02.09.000952             旋钮贴膜 3.02.09.000952/A From iPEM  个     外购
+14 3.01.07.000398 240V PLC电路板成品板 3.01.07.000398/B From iPEM  个 委外加工
+15 3.02.01.001593            磁芯压筒3 3.02.01.001593/B From iPEM  个     外购
+16 3.02.01.001594       圆环磁芯变压器 3.02.01.001594/B From iPEM  个     外购
+17 3.02.01.001595                 垫片 3.02.01.001595/B From iPEM  个     外购
+18 3.02.01.001599            D64下壳体 3.02.01.001599/B From iPEM  个     外购
+19 3.01.14.000030       密封式波段开关 3.01.14.000030/B From iPEM  个     外购
+20 3.02.01.001600                 旋钮 3.02.01.001600/B From iPEM  个     外购
+21 3.02.03.000547   内六角平端紧定螺钉 3.02.03.000547/B From iPEM  个     外购
+22 3.02.01.001601       SHELL_TOP_COPY 3.02.01.001601/B From iPEM  个     外购
+23 3.02.03.000546             SCREW_M4 3.02.03.000546/B From iPEM  个     外购
+24 3.01.13.000417 POWER_INSERTION_COPY 3.01.13.000417/B From iPEM  个 委外加工
+25 3.01.13.000416   PCB_LIVE_CONNECTOR 3.01.13.000416/B From iPEM  个 委外加工
+   PLMOperation ERPOperation                 PLMDate ERPDate FInterId
+1             M         <NA>  2021-06-09 13:33:10.91    <NA>     2837
+2             M         <NA>  2021-06-09 13:33:10.92    <NA>     2838
+3             M         <NA>  2021-06-09 13:33:10.93    <NA>     2839
+4             M         <NA>  2021-06-09 13:33:10.94    <NA>     2840
+5             M         <NA> 2021-06-09 13:33:10.963    <NA>     2841
+6             M         <NA> 2021-06-09 13:33:10.973    <NA>     2842
+7             M         <NA> 2021-06-09 13:33:10.997    <NA>     2843
+8             M         <NA> 2021-06-09 13:33:11.007    <NA>     2844
+9             M         <NA> 2021-06-09 13:33:11.017    <NA>     2845
+10            M         <NA> 2021-06-09 13:33:11.023    <NA>     2846
+11            M         <NA> 2021-06-09 13:33:11.033    <NA>     2847
+12            M         <NA> 2021-06-09 13:33:11.043    <NA>     2848
+13            M         <NA> 2021-06-09 13:33:11.063    <NA>     2849
+14            M         <NA> 2021-06-09 13:33:11.073    <NA>     2850
+15            M         <NA>  2021-06-09 13:33:11.08    <NA>     2851
+16            M         <NA> 2021-06-09 13:33:11.097    <NA>     2852
+17            M         <NA> 2021-06-09 13:33:11.203    <NA>     2853
+18            M         <NA> 2021-06-09 13:33:11.213    <NA>     2854
+19            M         <NA>  2021-06-09 13:33:11.22    <NA>     2855
+20            M         <NA>  2021-06-09 13:33:11.23    <NA>     2856
+21            M         <NA> 2021-06-09 13:33:11.237    <NA>     2857
+22            M         <NA> 2021-06-09 13:33:11.247    <NA>     2858
+23            M         <NA> 2021-06-09 13:33:11.253    <NA>     2859
+24            M         <NA> 2021-06-09 13:33:11.263    <NA>     2860
+25            M         <NA>  2021-06-09 13:33:11.27    <NA>     2861
+   PLMBatchnum
+1  PRD00000007
+2  PRD00000007
+3  PRD00000007
+4  PRD00000007
+5  PRD00000007
+6  PRD00000007
+7  PRD00000007
+8  PRD00000007
+9  PRD00000007
+10 PRD00000007
+11 PRD00000007
+12 PRD00000007
+13 PRD00000007
+14 PRD00000007
+15 PRD00000007
+16 PRD00000007
+17 PRD00000007
+18 PRD00000007
+19 PRD00000007
+20 PRD00000007
+21 PRD00000007
+22 PRD00000007
+23 PRD00000007
+24 PRD00000007
+25 PRD00000007
+           PMCode             PMName  BOMRevCode         CMCode
+1  1.204.07.00006     240V市电适配器 TCB100005/A               
+2  1.204.07.00006     240V市电适配器 TCB100005/A 3.02.02.001280
+3  1.204.07.00006     240V市电适配器 TCB100006/A 2.204.07.00007
+4  1.204.07.00006     240V市电适配器 TCB100005/A 3.02.01.001596
+5  1.204.07.00006     240V市电适配器 TCB100005/A 3.02.01.001597
+6  1.204.07.00006     240V市电适配器 TCB100005/A 3.02.01.001598
+7  1.204.07.00006     240V市电适配器 TCB100005/A 3.01.15.000645
+8  1.204.07.00006     240V市电适配器 TCB100005/A 3.02.02.001281
+9  1.204.07.00006     240V市电适配器 TCB100005/A 3.01.04.000084
+10 1.204.07.00006     240V市电适配器 TCB100005/A 3.02.09.000953
+11 1.204.07.00006     240V市电适配器 TCB100005/A 3.02.09.000954
+12 1.204.07.00006     240V市电适配器 TCB100007/A 2.204.07.00008
+13 2.204.07.00007 240V LPC电路板组件 TCB100006/A               
+14 2.204.07.00007 240V LPC电路板组件 TCB100006/A 3.01.07.000398
+15 2.204.07.00007 240V LPC电路板组件 TCB100006/A 3.02.01.001593
+16 2.204.07.00007 240V LPC电路板组件 TCB100006/A 3.02.01.001594
+17 2.204.07.00007 240V LPC电路板组件 TCB100006/A 3.02.01.001595
+18 2.204.07.00008   240V LPC旋钮组件 TCB100007/A               
+19 2.204.07.00008   240V LPC旋钮组件 TCB100007/A 3.02.01.001599
+20 2.204.07.00008   240V LPC旋钮组件 TCB100007/A 3.01.14.000030
+21 2.204.07.00008   240V LPC旋钮组件 TCB100007/A 3.02.01.001600
+22 2.204.07.00008   240V LPC旋钮组件 TCB100007/A 3.02.03.000547
+23 2.204.07.00008   240V LPC旋钮组件 TCB100007/A 3.02.09.000952
+                 CMName ProductGroup BOMCount BOMUOM PLMOperation ERPOperation
+1                              204-7        1     个           MB         <NA>
+2         240V LPC壳体1                     1     个            P         <NA>
+3    240V LPC电路板组件        204-7        1     个           NC         <NA>
+4         240V LPC壳体3                     1     个            P         <NA>
+5             LED固定套                     2     个            P         <NA>
+6      发光二级管（绿）                     1     个            P         <NA>
+7                  导线        204-7        1     个            P         <NA>
+8         240V LPC壳体2                     1     个            P         <NA>
+9      发光二极管（红）                     1     个            P         <NA>
+10           序列号贴膜                     1     个            P         <NA>
+11             提示贴膜                     1     个            P         <NA>
+12     240V LPC旋钮组件        204-7        1     个           NC         <NA>
+13                             204-7        1     个           MB         <NA>
+14 240V PLC电路板成品板                     1     个            P         <NA>
+15            磁芯压筒3                     1     个            P         <NA>
+16       圆环磁芯变压器                     1     个            P         <NA>
+17                 垫片                     3     个            P         <NA>
+18                             204-7        1     个           MB         <NA>
+19            D64下壳体                     1     个            P         <NA>
+20       密封式波段开关                     1     个            P         <NA>
+21                 旋钮                     1     个            P         <NA>
+22   内六角平端紧定螺钉                     1     个            P         <NA>
+23             旋钮贴膜                     1     个            P         <NA>
+                   PLMDate ERPDate FInterId       RootCode FLowCode PLMBatchnum
+1  2021-06-09 13:33:11.283    <NA>      947 1.204.07.00006        0 PRD00000007
+2  2021-06-09 13:33:11.297    <NA>      948 1.204.07.00006        1 PRD00000007
+3  2021-06-09 13:33:11.297    <NA>      949 1.204.07.00006        1 PRD00000007
+4   2021-06-09 13:33:11.32    <NA>      950 1.204.07.00006        1 PRD00000007
+5  2021-06-09 13:33:11.323    <NA>      951 1.204.07.00006        1 PRD00000007
+6  2021-06-09 13:33:11.323    <NA>      952 1.204.07.00006        1 PRD00000007
+7  2021-06-09 13:33:11.323    <NA>      953 1.204.07.00006        1 PRD00000007
+8  2021-06-09 13:33:11.323    <NA>      954 1.204.07.00006        1 PRD00000007
+9  2021-06-09 13:33:11.323    <NA>      955 1.204.07.00006        1 PRD00000007
+10 2021-06-09 13:33:11.327    <NA>      956 1.204.07.00006        1 PRD00000007
+11 2021-06-09 13:33:11.327    <NA>      957 1.204.07.00006        1 PRD00000007
+12 2021-06-09 13:33:11.327    <NA>      958 1.204.07.00006        1 PRD00000007
+13 2021-06-09 13:33:11.327    <NA>      959 1.204.07.00006        1 PRD00000007
+14 2021-06-09 13:33:11.327    <NA>      960 1.204.07.00006        2 PRD00000007
+15 2021-06-09 13:33:11.327    <NA>      961 1.204.07.00006        2 PRD00000007
+16  2021-06-09 13:33:11.33    <NA>      962 1.204.07.00006        2 PRD00000007
+17  2021-06-09 13:33:11.33    <NA>      963 1.204.07.00006        2 PRD00000007
+18  2021-06-09 13:33:11.33    <NA>      964 1.204.07.00006        1 PRD00000007
+19  2021-06-09 13:33:11.33    <NA>      965 1.204.07.00006        2 PRD00000007
+20  2021-06-09 13:33:11.33    <NA>      966 1.204.07.00006        2 PRD00000007
+21 2021-06-09 13:33:11.333    <NA>      967 1.204.07.00006        2 PRD00000007
+22 2021-06-09 13:33:11.333    <NA>      968 1.204.07.00006        2 PRD00000007
+23 2021-06-09 13:33:11.333    <NA>      969 1.204.07.00006        2 PRD00000007
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.01.04.000084' "
+[1] "step1 "
+           MCode            MName             Spec     MDesc UOM MProp
+1 3.01.04.000084 发光二极管（红） 3.01.04.000084/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000108"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.01.14.000030' "
+[1] "step1 "
+           MCode          MName             Spec     MDesc UOM MProp
+1 3.01.14.000030 密封式波段开关 3.01.14.000030/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000109"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.01.15.000645' "
+[1] "step1 "
+           MCode MName             Spec     MDesc UOM MProp
+1 3.01.15.000645  导线 3.01.15.000645/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000110"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001593' "
+[1] "step1 "
+           MCode     MName             Spec     MDesc UOM MProp
+1 3.02.01.001593 磁芯压筒3 3.02.01.001593/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000111"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001594' "
+[1] "step1 "
+           MCode          MName             Spec     MDesc UOM MProp
+1 3.02.01.001594 圆环磁芯变压器 3.02.01.001594/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000112"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001595' "
+[1] "step1 "
+           MCode MName             Spec     MDesc UOM MProp
+1 3.02.01.001595  垫片 3.02.01.001595/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000113"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001596' "
+[1] "step1 "
+           MCode         MName             Spec     MDesc UOM MProp
+1 3.02.01.001596 240V LPC壳体3 3.02.01.001596/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000114"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001597' "
+[1] "step1 "
+           MCode     MName             Spec     MDesc UOM MProp
+1 3.02.01.001597 LED固定套 3.02.01.001597/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000115"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001598' "
+[1] "step1 "
+           MCode            MName             Spec     MDesc UOM MProp
+1 3.02.01.001598 发光二级管（绿） 3.02.01.001598/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000116"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001599' "
+[1] "step1 "
+           MCode     MName             Spec     MDesc UOM MProp
+1 3.02.01.001599 D64下壳体 3.02.01.001599/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000117"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001600' "
+[1] "step1 "
+           MCode MName             Spec     MDesc UOM MProp
+1 3.02.01.001600  旋钮 3.02.01.001600/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000118"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.01.001601' "
+[1] "step1 "
+           MCode          MName             Spec     MDesc UOM MProp
+1 3.02.01.001601 SHELL_TOP_COPY 3.02.01.001601/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000119"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.02.001280' "
+[1] "step1 "
+           MCode         MName             Spec     MDesc UOM MProp
+1 3.02.02.001280 240V LPC壳体1 3.02.02.001280/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000120"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.02.001281' "
+[1] "step1 "
+           MCode         MName             Spec     MDesc UOM MProp
+1 3.02.02.001281 240V LPC壳体2 3.02.02.001281/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000121"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.03.000546' "
+[1] "step1 "
+           MCode    MName             Spec     MDesc UOM MProp
+1 3.02.03.000546 SCREW_M4 3.02.03.000546/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000122"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.03.000547' "
+[1] "step1 "
+           MCode              MName             Spec     MDesc UOM MProp
+1 3.02.03.000547 内六角平端紧定螺钉 3.02.03.000547/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000123"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.09.000952' "
+[1] "step1 "
+           MCode    MName             Spec     MDesc UOM MProp
+1 3.02.09.000952 旋钮贴膜 3.02.09.000952/A From iPEM  个  外购
+[1] 31123
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.09.000953' "
+[1] "step1 "
+           MCode      MName             Spec     MDesc UOM MProp
+1 3.02.09.000953 序列号贴膜 3.02.09.000953/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000124"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'外购'  and MCode ='3.02.09.000954' "
+[1] "step1 "
+           MCode    MName             Spec     MDesc UOM MProp
+1 3.02.09.000954 提示贴膜 3.02.09.000954/B From iPEM  个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000125"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'委外加工'  and MCode ='3.01.07.000398' "
+[1] "step1 "
+           MCode                MName             Spec     MDesc UOM    MProp
+1 3.01.07.000398 240V PLC电路板成品板 3.01.07.000398/B From iPEM  个 委外加工
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.03.000020"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'委外加工'  and MCode ='3.01.13.000416' "
+[1] "step1 "
+           MCode              MName             Spec     MDesc UOM    MProp
+1 3.01.13.000416 PCB_LIVE_CONNECTOR 3.01.13.000416/B From iPEM  个 委外加工
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.03.000021"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'委外加工'  and MCode ='3.01.13.000417' "
+[1] "step1 "
+           MCode                MName             Spec     MDesc UOM    MProp
+1 3.01.13.000417 POWER_INSERTION_COPY 3.01.13.000417/B From iPEM  个 委外加工
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.03.000022"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'自制'  and MCode ='1.204.07.00006' "
+[1] "step1 "
+           MCode          MName             Spec     MDesc UOM MProp
+1 1.204.07.00006 240V市电适配器 1.204.07.00006/B From iPEM  个  自制
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.02.000026"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'自制'  and MCode ='2.204.07.00007' "
+[1] "step1 "
+           MCode              MName             Spec     MDesc UOM MProp
+1 2.204.07.00007 240V LPC电路板组件 2.204.07.00007/B From iPEM  个  自制
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.02.000027"
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='PRD00000007'  and MProp = N'自制'  and MCode ='2.204.07.00008' "
+[1] "step1 "
+           MCode            MName             Spec     MDesc UOM MProp
+1 2.204.07.00008 240V LPC旋钮组件 2.204.07.00008/B From iPEM  个  自制
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.02.000028"
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+NULL
+
+[[12]]
+NULL
+
+[[13]]
+NULL
+
+[[14]]
+NULL
+
+[[15]]
+NULL
+
+[[16]]
+NULL
+
+[[17]]
+NULL
+
+[[18]]
+NULL
+
+[[19]]
+NULL
+
+[[20]]
+NULL
+
+[[21]]
+NULL
+
+[[22]]
+NULL
+
+[[23]]
+NULL
+
+[[24]]
+NULL
+
+[[25]]
+NULL
+
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21221      66 1.00
+2   21222      66 1.00
+3   21223      66 1.00
+4   21224      66 1.00
+5   21225      66 1.00
+6   21226      66 1.00
+7   21227      66 1.00
+8   21228      66 1.00
+9   21229      66 1.00
+'data.frame':	9 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511 ...
+ $ FEntryID       : int  1 2 3 4 5 6 7 8 9
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21221 21222 21223 21224 21225 ...
+ $ FAuxPropID     : num  0 0 0 0 0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059 ...
+ $ FStockID       : num  0 0 0 0 0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0 0 0 0 0
+'data.frame':	1 obs. of  28 variables:
+ $ FInterID      : num 6510
+ $ FBomNumber    : chr "TCB100022"
+ $ FBrNo         : chr "0"
+ $ FTranType     : num 50
+ $ FCancellation : chr "0"
+ $ FStatus       : num 1
+ $ FVersion      : chr "001"
+ $ FUseStatus    : num 1072
+ $ FItemID       : num 41507
+ $ FUnitID       : num 66
+ $ FAuxPropID    : num 0
+ $ FAuxQty       : num 1
+ $ FYield        : num 100
+ $ FNote         : chr ""
+ $ FCheckID      : num 16394
+ $ FCheckDate    : chr "2021-01-07 00:00:00.0"
+ $ FOperatorID   : num 16394
+ $ FEntertime    : chr "2021-01-09 00:00:00.0"
+ $ FRoutingID    : num 0
+ $ FBomType      : num 0
+ $ FCustID       : num 0
+ $ FParentID     : num 1286
+ $ FAudDate      : chr "2021-01-09 00:00:00.0"
+ $ FImpMode      : num 0
+ $ FPDMImportDate: chr NA
+ $ FBOMSkip      : num 1059
+ $ FUseDate      : chr NA
+ $ FHeadSelfZ0135: chr "自制"
+[1] "data_bom"
+   FItemID FUnitID FQty
+1    21243      66    1
+2    41511      66    1
+3    21237      66    1
+4    21238      66    2
+5    21239      66    1
+6    21233      66    1
+7    21244      66    1
+8    21231      66    1
+9    21247      66    1
+10   21248      66    1
+11   41513      66    1
+'data.frame':	11 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511 ...
+ $ FEntryID       : int  1 2 3 4 5 6 7 8 9 10 ...
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21243 41511 21237 21238 21239 ...
+ $ FAuxPropID     : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FUnitID        : num  66 66 66 66 66 66 66 66 66 66 ...
+ $ FMaterielType  : num  371 371 371 371 371 371 371 371 371 371 ...
+ $ FMarshalType   : num  385 385 385 385 385 385 385 385 385 385 ...
+ $ FQty           : num  1 1 1 2 1 1 1 1 1 1 ...
+ $ FAuxQty        : num  1 1 1 2 1 1 1 1 1 1 ...
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100 100 100 100 100 100 ...
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 ...
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FOperID        : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FBackFlush     : num  1059 1059 1059 1059 1059 ...
+ $ FStockID       : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FSPID          : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FEntrySelfZ0145: num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FEntrySelfZ0146: num  0 0 0 0 0 0 0 0 0 0 ...
+ $ FEntrySelfZ0148: num  0 0 0 0 0 0 0 0 0 0 ...
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+           MCode            MName             Spec     MDesc UOM MProp
+1 3.02.02.001283             嵌件  VX6-218-3-1-1-0 From iPEM  个  外购
+2 3.01.14.000030   密封式波段开关 3.01.14.000030/C From iPEM  个  外购
+3 3.02.09.000952         旋钮贴膜 3.02.09.000952/A From iPEM  个  外购
+4 2.204.07.00008 240V LPC旋钮组件 2.204.07.00008/C From iPEM  个  自制
+  PLMOperation ERPOperation                 PLMDate ERPDate FInterId
+1            M         <NA> 2021-06-09 13:48:58.853    <NA>     2862
+2            M         <NA> 2021-06-09 13:48:58.863    <NA>     2863
+3            O         <NA> 2021-06-09 13:48:58.883    <NA>     2864
+4            M         <NA> 2021-06-09 13:48:58.893    <NA>     2865
+  PLMBatchnum
+1 ECN00000005
+2 ECN00000005
+3 ECN00000005
+4 ECN00000005
+          PMCode           PMName  BOMRevCode         CMCode             CMName
+1 2.204.07.00008 240V LPC旋钮组件 TCB100007/B                                  
+2 2.204.07.00008 240V LPC旋钮组件 TCB100007/B 3.02.01.001599          D64下壳体
+3 2.204.07.00008 240V LPC旋钮组件 TCB100007/B 3.01.14.000030     密封式波段开关
+4 2.204.07.00008 240V LPC旋钮组件 TCB100007/B 3.02.01.001600               旋钮
+5 2.204.07.00008 240V LPC旋钮组件 TCB100007/B 3.02.03.000547 内六角平端紧定螺钉
+6 2.204.07.00008 240V LPC旋钮组件 TCB100007/B 3.02.02.001283               嵌件
+  ProductGroup BOMCount BOMUOM PLMOperation ERPOperation
+1        204-7        1     个           NB         <NA>
+2                     1     个            P         <NA>
+3                     1     个            P         <NA>
+4                     1     个            P         <NA>
+5                     1     个            P         <NA>
+6                     1     个            P         <NA>
+                  PLMDate ERPDate FInterId       RootCode FLowCode PLMBatchnum
+1 2021-06-09 13:48:58.903    <NA>      970 2.204.07.00008        0 ECN00000005
+2 2021-06-09 13:48:58.903    <NA>      971 2.204.07.00008        1 ECN00000005
+3 2021-06-09 13:48:58.907    <NA>      972 2.204.07.00008        1 ECN00000005
+4 2021-06-09 13:48:58.907    <NA>      973 2.204.07.00008        1 ECN00000005
+5 2021-06-09 13:48:58.907    <NA>      974 2.204.07.00008        1 ECN00000005
+6 2021-06-09 13:48:58.907    <NA>      975 2.204.07.00008        1 ECN00000005
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='ECN00000005'  and MProp = N'外购'  and MCode ='3.01.14.000030' "
+[1] "step1 "
+           MCode          MName             Spec     MDesc UOM MProp
+1 3.01.14.000030 密封式波段开关 3.01.14.000030/C From iPEM  个  外购
+[1] 21232
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='ECN00000005'  and MProp = N'外购'  and MCode ='3.02.02.001283' "
+[1] "step1 "
+           MCode MName            Spec     MDesc UOM MProp
+1 3.02.02.001283  嵌件 VX6-218-3-1-1-0 From iPEM  个  外购
+[1] 21129
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='ECN00000005'  and MProp = N'外购'  and MCode ='3.02.09.000952' "
+[1] "step1 "
+           MCode    MName             Spec     MDesc UOM MProp
+1 3.02.09.000952 旋钮贴膜 3.02.09.000952/A From iPEM  个  外购
+[1] 31123
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='ECN00000005'  and MProp = N'自制'  and MCode ='2.204.07.00008' "
+[1] "step1 "
+           MCode            MName             Spec     MDesc UOM MProp
+1 2.204.07.00008 240V LPC旋钮组件 2.204.07.00008/C From iPEM  个  自制
+[1] 41513
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+        MCode MName          Spec MDesc UOM MProp PLMOperation ERPOperation
+1 4.04.000227  手册 4.04.000227/A        个  外购            N         <NA>
+                 PLMDate ERPDate FInterId PLMBatchnum
+1 2021-06-09 14:34:38.08    <NA>     2866 APP00000020
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "select  MCode,MName,Spec,MDesc,UOM,MProp   from PLMtoERP_Item\nwhere PLMBatchnum  ='APP00000020'  and MProp = N'外购'  and MCode ='4.04.000227' "
+[1] "step1 "
+        MCode MName          Spec MDesc UOM MProp
+1 4.04.000227  手册 4.04.000227/A        个  外购
+[1] 0
+[1] "s1"
+[1] "s1"
+[1] "RDS.01.000126"
+[[1]]
+NULL
+
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "data_bom"
+  FItemID FUnitID FQty
+1   21240      66    1
+2   21232      66    1
+3   21241      66    1
+4   21246      66    1
+5   21129      66    1
+'data.frame':	5 obs. of  36 variables:
+ $ FInterID       : num  6511 6511 6511 6511 6511
+ $ FEntryID       : int  1 2 3 4 5
+ $ FBrNo          : chr  "0" "0" "0" "0" ...
+ $ FItemID        : num  21240 21232 21241 21246 21129
+ $ FAuxPropID     : num  0 0 0 0 0
+ $ FUnitID        : num  66 66 66 66 66
+ $ FMaterielType  : num  371 371 371 371 371
+ $ FMarshalType   : num  385 385 385 385 385
+ $ FQty           : num  1 1 1 1 1
+ $ FAuxQty        : num  1 1 1 1 1
+ $ FBeginDay      : chr  "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" "1900-01-01 00:00:00.0" ...
+ $ FEndDay        : chr  "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" "2100-01-01 00:00:00.0" ...
+ $ FPercent       : num  100 100 100 100 100
+ $ FScrap         : num  0.1 0.1 0.1 0.1 0.1
+ $ FPositionNo    : chr  "" "" "" "" ...
+ $ FItemSize      : chr  "" "" "" "" ...
+ $ FItemSuite     : chr  "" "" "" "" ...
+ $ FOperSN        : num  0 0 0 0 0
+ $ FOperID        : num  0 0 0 0 0
+ $ FMachinePos    : chr  "" "" "" "" ...
+ $ FOffSetDay     : num  0 0 0 0 0
+ $ FBackFlush     : num  1059 1059 1059 1059 1059
+ $ FStockID       : num  0 0 0 0 0
+ $ FSPID          : num  0 0 0 0 0
+ $ FNote          : chr  "" "" "" "" ...
+ $ FNote1         : chr  "" "" "" "" ...
+ $ FNote2         : chr  "" "" "" "" ...
+ $ FNote3         : chr  "" "" "" "" ...
+ $ FPDMImportDate : chr  "" "" "" "" ...
+ $ FDetailID      : chr  "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" "D3B00053-E136-4304-B83E-1334A2E23076" ...
+ $ FCostPercentage: num  0 0 0 0 0
+ $ FEntrySelfZ0142: chr  "" "" "" "" ...
+ $ FEntrySelfZ0144: num  0 0 0 0 0
+ $ FEntrySelfZ0145: num  0 0 0 0 0
+ $ FEntrySelfZ0146: num  0 0 0 0 0
+ $ FEntrySelfZ0148: num  0 0 0 0 0
+Error in .local(conn, statement, ...) : 
+  execute JDBC update query failed in dbSendUpdate (违反了 PRIMARY KEY 约束“Prm_ICBOMChild”。不能在对象“dbo.ICBOMChild”中插入重复键。重复键值为 (6511, 1)。)
+Calls: bom_readIntoERP_ALL ... <Anonymous> -> dbSendUpdate -> dbSendUpdate -> .local
+Execution halted
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+[1] "load finished!"
+[1] "不存在更新数据"
+ [1] MCode        MName        Spec         MDesc        UOM         
+ [6] MProp        PLMOperation ERPOperation PLMDate      ERPDate     
+[11] FInterId     PLMBatchnum 
+<0 rows> (or 0-length row.names)
+[1] "不存在更新数据"
+ [1] PMCode       PMName       BOMRevCode   CMCode       CMName      
+ [6] ProductGroup BOMCount     BOMUOM       PLMOperation ERPOperation
+[11] PLMDate      ERPDate      FInterId     RootCode     FLowCode    
+[16] PLMBatchnum 
+<0 rows> (or 0-length row.names)
